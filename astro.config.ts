@@ -99,7 +99,7 @@ export default defineConfig({
         ],
         remarkRehype: {
             footnoteLabelProperties: {
-                className: [""],
+                className: ["555"],
             },
       footnoteLabel: '脚注：',
         },
@@ -110,7 +110,7 @@ export default defineConfig({
     prefetchAll: true,
   },
     // ! 改为你的网站地址，不然社交图片无法加载
-    site: "https://demo.343700.xyz/",
+    site: "https://blog.550709.xyz/",
     vite: {
         optimizeDeps: {
             exclude: ["@resvg/resvg-js"],
