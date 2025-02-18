@@ -99,7 +99,7 @@ export default defineConfig({
         ],
         remarkRehype: {
             footnoteLabelProperties: {
-                className: [""],
+                className: ["550709"],
             },
       footnoteLabel: '脚注：',
         },
